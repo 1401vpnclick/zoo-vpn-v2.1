@@ -1,1 +1,1 @@
-.
+{"title":"کاربر گرامی ","message":"❤️⚡️هم اکنون برنامه از دسترس خارج شده است . بعد از رفع باگ و درست شدن در کانال تلگرام قرار میدهیم ","dismissable":false,"dismissTxt":"رد","okTxt":"عضویت در تلگرام","okUrl":"tg://resolve?domain=Vpn_Click","status":"ok"}
